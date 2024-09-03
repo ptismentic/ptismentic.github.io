@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ptismentic.github.io/sitemap.html.gz
+Sitemap: https://ptismentic.github.io/app/sitemap.html.gz
+Sitemap: https://ptismentic.github.io/assets/sitemap.html.gz
+Sitemap: https://ptismentic.github.io/css/sitemap.html.gz
+Sitemap: https://ptismentic.github.io/includes/sitemap.html.gz
+Sitemap: https://ptismentic.github.io/item/sitemap.html.gz
+Sitemap: https://ptismentic.github.io/src/sitemap.html.gz
